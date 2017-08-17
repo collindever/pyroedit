@@ -10,7 +10,8 @@ Offline:
 
 It is setup to work with 92 nodes ... the patterns in the folder are converted from the old 91 node files 
 
-...
+```
+
 << Start Frame
 <  Previous Frame
 +  Add Frame
@@ -19,4 +20,6 @@ It is setup to work with 92 nodes ... the patterns in the folder are converted f
 -  Delete Frame
 >  Next Frame
 >> End Frame
-...
+
+```
+
