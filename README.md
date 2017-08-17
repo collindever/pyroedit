@@ -3,8 +3,7 @@ Pyrosphere Pattern Editor
 
 Online: https://sfranzyshen.github.io/pyroedit/
 
-Offline:
-1) Download https://github.com/sfranzyshen/pyroedit/archive/master.zip
+Offline:1) Download https://github.com/sfranzyshen/pyroedit/archive/master.zip
 2) Extract
 3) Open pyroedit.html with either firefox or chrome (sorry windows)
 
