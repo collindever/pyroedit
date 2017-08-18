@@ -9,7 +9,7 @@ Offline:
 3) Open index.html with either firefox or chrome (sorry windows)
 
 It is setup to work with 92 nodes ... the patterns in the folder are converted from the old 91 node files 
-
+This is a top down view with the lower numbers being the lower half of the sphere ...
 ```
 
 << Start Frame
